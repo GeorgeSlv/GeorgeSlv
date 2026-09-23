@@ -1,4 +1,4 @@
-# Olá, eu sou o Dean 👋
+# Olá, eu sou o George Silva 👋
 
 Desenvolvedor Java focado em sistemas backend robustos, atualmente em transição para vagas de nível **Pleno**.
 
