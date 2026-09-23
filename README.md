@@ -33,10 +33,8 @@ Desenvolvedor Java focado em sistemas backend robustos, atualmente em transiçã
 
 ### 📌 Projetos em destaque
 
-> _Substitua pelos seus repositórios reais (pin manual no GitHub também é recomendado)_
-
-- **[nome-do-projeto](#)** — breve descrição do que o projeto faz e quais camadas ele treina (ex: API REST + testes + Docker)
-- **[outro-projeto](#)** — breve descrição
+- **[CRUD](https://github.com/GeorgeSlv/CRUD)** — Sistema CRUD em Java com Servlets puros, sem framework, persistência via JDBC
+- **[springboot_crud](https://github.com/GeorgeSlv/springboot_crud)** — CRUD em Java com Spring Boot e Spring Data JPA
 
 ---
 
