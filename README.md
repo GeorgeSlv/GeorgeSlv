@@ -2,7 +2,7 @@
 
 Desenvolvedor Java focado em sistemas backend robustos, aprofundando conhecimentos em cloud e boas práticas de engenharia de software.
 
-- 💼 Desenvolvo aplicações web Java para sistemas de grande porte, trabalhando com **Struts/Servlet MVC**, **Spring Boot**, **PostgreSQL** e **Apache Tomcat**
+- 💼 Desenvolvo aplicações web Java para sistemas de grande porte, trabalhando com **JSP/Servlet MVC**, **Spring Boot**, **PostgreSQL** e **Apache Tomcat**
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas | Cursando pós-graduação em **Computação em Nuvem, Engenharia de Software e DevOps**
 - 🚀 Construindo um projeto prático para aprofundar testes automatizados, mensageria, Docker/Kubernetes e front-end
 - 🎯 Objetivo: me tornar um desenvolvedor Pleno completo, com sólida base em arquitetura, boas práticas e cloud
@@ -14,7 +14,7 @@ Desenvolvedor Java focado em sistemas backend robustos, aprofundando conheciment
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Struts](https://img.shields.io/badge/Struts-D22128?style=flat&logo=apache&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Banco de Dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
