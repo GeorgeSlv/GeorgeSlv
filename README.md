@@ -1,6 +1,6 @@
 # Olá, eu sou o George Silva 👋
 
-Desenvolvedor Java focado em sistemas backend robustos, atualmente em transição para vagas de nível **Pleno**.
+Desenvolvedor Java focado em sistemas backend robustos, aprofundando conhecimentos em cloud e boas práticas de engenharia de software.
 
 - 💼 Desenvolvo aplicações web Java para sistemas de grande porte, trabalhando com **Struts/Servlet MVC**, **Spring Boot**, **PostgreSQL** e **Apache Tomcat**
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas | Cursando pós-graduação em **Computação em Nuvem, Engenharia de Software e DevOps**
@@ -46,4 +46,4 @@ Desenvolvedor Java focado em sistemas backend robustos, atualmente em transiçã
 
 ---
 
-<sub>Aberto a oportunidades como Desenvolvedor Java Pleno 🚀</sub>
+<sub>Sempre evoluindo — hoje focado em cloud, testes automatizados e arquitetura de software 🚀</sub>
